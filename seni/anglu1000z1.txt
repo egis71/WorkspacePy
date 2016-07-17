@@ -1,0 +1,504 @@
+﻿to [tu]; į, pas (žymint kryptį)
+in [in]; žymint vietą, verčiama vietininku
+is [iz]; yra (naudojama su vienaskaita )
+you [ju:]; tu, jūs
+that [ðæt]; tas, anas, tai
+it [it]; jis, ji (kalbant apie daiktus)/ tai
+he [hi:]; jis
+was [wɔz]; buvo
+for [fᴐ:]; dėl, už
+on [ɔn]; ant, prie
+as [æz]; kai, kada
+with [wið]; su, kartu
+his [hiz]; jo
+they [ðei]; jie, jos
+I [ai]; aš
+at [æt]; prie, pas
+to be [bi:]; būti
+this [ðis]; ši(ta)s, ši(ta)/ tai
+to have [hæv]; turėti
+from [frɔm]; iš/ nuo
+or [ɔ:]; ar, arba
+one [wΛn]; vienas
+had [hæd]; turėjo
+by [bai]; prie, šalia
+word [wə:d]; žodis
+but [bΛt]; bet, o
+not [nɔt]; ne
+what [wɔt]; kas? koks?
+all [ɔ:l]; visas, visa, viskas
+we [wi:]; mes
+when [wen]; kada?
+your [jɔ:]; jūsų, tavo
+can [kæn]; galėti
+to said [sed] ; (pa)sakė
+there [ðεə] []; ten
+to use [ju:z]; naudoti, pritaikyti
+each [i:t∫]; kiekvienas
+which [wit∫]; kuris? katras?
+she [∫i:]; ji
+to do [du:]; daryti
+how [hau]; kaip? kokiu būdu?
+their [ðεə]; jų, savo
+if [if]; jei, jeigu
+will [wil]; noras, ketinimas/ valia
+up [Λp]; aukštyn, viršuje
+other ['Λðə]; kitas
+about [ə'baut]; apie
+yes [jes]; taip
+out [aut]; lauke, lauk(an), už (žymint kryptį)
+many ['meni]; daugelis, daugybė, daug
+then [ðen]; tada, tuomet
+them [ðem]; juos, jas
+these [ði:z]; ši(ti)e, ši(t)os
+some [sΛm]; kai kas, kai kuris
+her [hə:]; jai, ją
+to make [meik]; (pa)daryti, (pa)dirbti, gaminti
+to like [laik]; patikti, mėgti
+him [him]; jam, jį
+into ['intə]; į
+time [taim]; laikas
+to look [luk]; (pa)žiūrėti, (pa)žvelgti, atrodyti
+two [tu:]; du
+more [mɔ:]; daugiau, labiau
+to write [rait]; rašyti
+to go [gəu]; (iš)eiti
+to see [si:]; (pa)matyti, regėti
+number ['nΛmbə]; numeris, skaičius
+no [nəu]; ne
+way [wei]; kelias, būdas, metodas
+could [kud]; galėti
+people ['pi:pl]; žmonės
+my [mai]; mano
+than [ðæn]; negu, kaip, už (palyginant)
+first [fə:st]; pirmas, pirmiausia
+water ['wɔ:tə]; vanduo
+to call [kɔ:l]; (pa)skambinti, kviesti, duoti vardą
+who [hu:]; kas?, ką? (kalbant apie žmogų), kuris
+oil [ɔil:]; aliejus, alyva
+now [nau]; dabar, šiuo metu
+find [faind]; (su)rasti, (su)ieškoti
+long [lɔη]; ilgas, tolimas
+down [daun]; žemyn
+day [dei]; diena
+to get [get]; gauti
+to come [kΛm]; ateiti, atvykti, grįžti
+made [meid]; pagamintas, padarytas
+maybe ['meibi]; galbūt, gal
+part [pa:t]; dalis, detalė
+over ['əuvə]; virš, viršum
+new [nju:]; naujas
+sound [saund]; garsas
+to take [teik]; (pa)imti, griebti
+only ['əunli]; vienintelis/ tik, bet
+little ['litl]; mažas, nedidelis
+work [wə:k]; darbas, veikla
+to work [wə:k]; dirbti, veikti
+to know [nəu]; žinoti, mokėti
+place [pleis]; vieta
+year [jə:]; metai
+to live [liv]; gyventi
+me [mi:]; manęs, man
+back [bæk]; nugara
+to back [bæk]; važiuoti/trauktis atbulam
+to give [giv]; duoti, suteikti
+most [məust]; daugiausia, didžiausias
+very ['veri]; labai, itin
+after ['a:ftə]; po, paskui
+thing [θiη]; daiktas, dalykas
+great [greit]; didysis, didis, adv šnek. labai gerai/ 
+where [wɜə]; kur? kame?
+help [help]; pagalba
+through [θru:]; per, pro/ kiaurai
+much [mΛt∫]; daug/ adv labai
+before [bi'fɔ:]; anksčiau, jau
+line [lain];  linija, brūkšnys
+right [rait]; dešinė, teisingai
+too [tu:]; per daug, taip pat, irgi
+to mean [mi:n]; turėti omenyje, reikšti
+old [əuld]; senas
+any ['eni]; kas nors, koks nors
+same [seim]; tas pats, toks pat
+to tell [tel]; (pa)sakyti, kalbėti, pasakoti
+boy [bɔi]; berniukas
+to follow ['fɔləu]; sekti, eiti
+to put [put]; (pa)dėti, (pa)statyti
+and [ænd]; ir, bei
+another [ə'nΛðə]; kitas
+well [wel]; gerai
+must [mʌst]; privalo
+big [big]; didelis, stambus
+even ['i:vn]; net, netgi, lygus
+such [sΛt∫]; toks
+because [bi'kɔz]; nes, kadangi, prep (because of) dėl/
+to turn [tə:n]; pa(si)sukti, apsisukti, (ap)versti
+here [hiə]; čia, čia esantis
+why [wai]; kodėl?
+to ask [a:sk]; klausti
+went [went]; ėjo/ vyko
+man [mæn]; žmogus, vyras
+hand [hænd]; ranka
+picture ['pikt∫ə]; paveikslas, piešinys/ vaizdas
+again [ə'gein]; vėl, dar
+to change [t∫eindʒ]; (pa)keisti
+to play [plei]; žaisti, groti
+play [plei]; žaidimas
+air [зə]; oras, atmosfera
+away [ə'wei]; toli, šalin
+animal ['æniml]; gyvūnas/ gyvulys
+house [haus]; namas
+point [pɔint]; taškas, esmė, tikslas
+page [peidʒ]; puslapis
+letter ['letə]; laiškas/ raidė
+mother ['mΛðə]; motina
+answer ['a:nsə]; atsakymas
+our ['auə]; mūsų
+name [neim]; vardas, pavadinimas
+good [gud]; geras, geros kokybės
+sentence ['sentəns]; sakinys/ nuosprendis/ bausmė
+men [men]; vyrai, žmonės
+to think [θiηk]; manyti, mąstyti, galvoti
+to say [sei]; (pa)sakyti
+to want [wɔnt]; norėti, trokšti
+to show [∫əu]; (pa)rodyti
+also ['ɔ:lsəu]; irgi, taip pat
+around [ə'raund]; aplink(ui), ratu/ apie, apytiksliai
+from [frɔm]; iš
+three [θri:]; trys
+small [smɔ:l]; mažas, nedidelis
+set [set]; komplektas, rinkinys
+to read [ri:d]; skaityti
+need [ni:d]; reikia, poreikis,reikalingumas
+land [lænd]; žemė, sausuma
+different ['difrənt]; skirtingas, nepanašus, kitoks
+us [Λs]; mus, mums, mūsų
+to move [mu:v]; (pa)judėti, judinti
+to try [trai]; stengtis, bandyti
+try [trai]; mėginimas, bandymas
+to find [faind] ; (su)rasti, suieškoti
+study ['stΛdi]; mokslas, studijos
+still [stil]; tylus, ramus, nejudantis
+to learn [lə:n]; mokytis, išmokti
+should [∫ud]; turėčiau, turėtum
+world [wə:ld]; pasaulis
+high [hai]; aukštas, aukštai
+every ['evri]; kiekvienas
+near [niə]; arti, šalia
+to add [æd]; pridėti, sudėti
+food [fu:d]; maistas
+between [bi'twi:n]; tarp
+to own [əun]; valdyti, turėti
+below [bil'əu]; žemiau, apačioje
+country ['kΛntri]; šalis
+plant [pla:nt]; augalas, sodinukas
+last [la:st]; paskutinis
+school [sku:l]; mokykla
+father ['fa:ðə] ; tėvas
+to keep [ki:p] ; laikyti, saugoti
+tree [tri:]; medis
+never ['nevə]; niekada
+start [sta:t]; pradžia, startas
+city ['siti]; didelis miestas
+earth[ə:θ]; Žemė, Žemės rutulys, sausuma
+eye [ai]; akis
+light [lait]; šviesa
+left [left]; kairė pusė
+do not; nedaryk (draudimas veiksmui atlikti)
+few [fju:]; nedaug, keletas
+while [wail]; kol, nors ir
+along [ə'lɔη]; palei, išilgai, kartu
+might [mait]; galėjo, galėjo būti
+to close [kləuz] ; už(si)daryti
+close [kləus]; arti, netoli
+something ['sΛmθiη]; kažkas, kas nors
+to seem [si:m]; atrodyti
+next [nekst]; kitas
+hard [ha:d]; kietas, sunkus
+to open ['əupən]; atidaryti
+example [ig'za:mpl]; pavyzdys
+to begin [bi'gin]; pra(si)dėti
+life [laif]; gyvenimas, amžius, gyvybė
+always ['ɔ:lweız]; visada
+those [ðəuz]; tie, anie
+both [bəuθ]; abu
+paper ['peipə]; popierius, laikraštis
+together [tə'geðə]; drauge, kartu
+until [Λn'til]; (iki) kol
+child ['t∫aild]; vaikas
+children ['t∫ildrən]; vaikai
+side [said]; pusė, šalis, šonas, kraštas
+foot [fut]; pėda, koja
+car [ka:]; automobilis
+mile [mail]; mylia
+night [nait]; naktis, vakaras
+walk [wɔ:k]; ėjimas, vaikščiojimas
+white [wait]; baltas, žilas
+sea [si:]; jūra, marios
+to grow [grəu]; augti, auginti
+took [tuk]; paėmė, griebė
+river ['rivə]; upė
+four [fɔ:]; keturi
+state [steit]; valstybė/ būklė, būsena, padėtis/ 
+once [wΛns]; (vieną) kartą, vienąkart
+to book [buk]; už(si)sakyti, pirkti (bilietą)/ (už)registruoti 
+book [buk]; knyga
+hear [hiə]; girdėti, klausytis
+idea [ai'diə]; mintis, idėja
+enough [i'nΛf]; pakankamai,gana, užtektinai
+to eat [i:t]; valgyti
+face [feis]; veidas
+to watch [wɔt∫]; stebėti, sekti, žiūrėti
+watch [wɔt∫];  laikrodis
+far [fa:]; tolimas, tolus, toli
+real [ri:l]; tikras, realus
+almost ['ɔ:lməust]; beveik/ vos ne/ 
+ to let [let]; leisti, išleisti
+above [ə'bΛv]; viršuje, virš, aukščiau
+girl [gə:l]; mergaitė,  mergina
+sometimes ['sΛmtaimz]; kartais, retkarčiais
+mountain ['mauntin]; kalnas
+to cut [kΛt]; (per)pjauti, pjaustyti, kirpti
+young [jΛη]; jaunas
+talk [tɔ:k]; pašnekesys,pokalbis
+soon [su:n]; greit(ai), netrukus
+list  [list]; sąrašas, registras
+song [sɔη]; daina
+head [hed]; galva, viršininkas
+under ['Λndə]; po (žymint vietą), apačioje
+story ['stɔ:ri] ; istorija, pasaka
+saw [sɔ:] ; patarlė, priežodis
+to get [get]; gauti
+group [gru:p]; grupė
+often ['ɔfn]; dažnai, daug kartų
+to run [rΛn]; (nu)bėgti 
+important [im'pɔ:tənt] ; svarbus, reikšmingas
+to stop [stɔp]; (su)stoti, (su)stabdyti/ nutraukti
+without [wi'ðaut]; be
+second ['sekənd] ; sekundė, akimirka, antra(s)
+late [leit]; vėlus, pavėlavęs
+miss [mis]; praleisti, pasigesti, nepataikyti 
+to leave [li:v]; išvykti, išeiti
+family ['fæmili]; šeima, giminė
+body ['bɔdi]; kūnas
+music ['mju:zik]; muzika
+colour ['kΛlə]; spalva
+language ['læηgwidʒ]; kalba
+friend [frend]; draugas
+plane [plein]; lėktuvas
+to carry ['kæri]; nešti, nešioti
+white [wait]; balta spalva
+dinner ['dinə]; pietūs
+breakfast ['brekfəst]; pusryčiai
+supper ['sΛpə]; vakarienė
+sun [sΛn]; saulė
+moon [mu:n]; mėnulis
+bird [bə:d]; paukštis
+product ['prɔdΛkt]; produktas, gaminys
+question ['kwest∫ən]; klausimas
+ship [∫ip]; laivas
+half [ha:f]; pusė
+fire ['faiə]; ugnis, gaisras
+problem ['prɔbləm]; problema, bėda
+travel ['trævl]; kelionė
+to travel  ['trævl]; keliauti
+money ['mΛni]; pinigai
+are [a:]; yra (naudojama su daugiskaita)
+woman ['wumən]; moteris
+to state [steɪt]; konstatuoti, pareikšti, tvirtinti
+ability [ə'bɪlətɪ]; galėjimas, gebėjimas
+able ['eɪbl]; galintis, pajėgus, gabus
+accord [ə'kɔ:d]; sutarimas, sutikimas
+account [ə'kaunt]; sąskaita, paskyra
+across [ə'krɔs]; skersai, į kitą pusę, per
+act [ækt]; veiksmas, poelgis, aktas
+action ['æk∫n]; veiksmas, poelgis
+active ['æktɪv]; aktyvus, veiklus
+actual ['ækt∫uəl]; faktinis, tikras(is), dabartinis
+address [ə'dres]; adresas
+advance [əd'va:ns]; žengimas į priekį, pažanga, progresas
+advantage [əd'va:ntɪdʒ ]; pranašumas, pirmenybė
+affair [ə'fɜə]; reikalas, dalykas
+afternoon [,a:ftə'nu:n]; popietė
+against [ə'genst]; prieš (ką nors)
+age [eɪdʒ]; amžius
+agency ['eɪdʒənsɪ]; agentūra, įstaiga
+ago [ə'gəu]; prieš (apie laiką)
+ahead [ə'hed]; priekyje, priešakyje, pirmyn
+alone [ə'ləun]; vienas, vienišas
+already [ɔ:l'redɪ]; jau
+although [ɔ:l'ðəu]; nors (ir), net jei
+among [ə'mʌŋ]; tarp (daugelio), iš
+amount [ə'maunt]; kiekis, suma
+anything ['enɪθɪŋ]; bet kas, kas nors (klaus. sakinyje), niekas (neig. sakinyje)
+arm [a:m]; ranka (nuo plaštakos iki peties)
+army ['a:mɪ]; kariuomenė, armija
+art [a:t]; menas, dailė
+association [ə,səusɪ'eɪ∫n]; asociacija, susivienijimas/ bendravimas
+attack [ə'tæk]; (už)puolimas, ataka/ priepuolis (ligos)
+attention [ə'ten∫n]; dėmesys, atidumas
+audience ['ɔ:dɪəns]; auditorija, publika, žiūrovai
+average ['ævəridʒ]; vidurkis, vidutinis, vidutiniškas
+bad [bæd]; blogas, prastas, sugedęs
+baggage ['bægɪdʒ]; bagažas
+balance ['bæləns]; balansas, pusiausvyra
+ball [bɔ:l]; kamuolys
+bank [bæŋk]; bankas/ krantas (upės)
+bar [ba:]; baras/ strypas
+base [beɪs]; pagrindas, pamatas, bazė
+basic ['beɪsɪk]; pagrindinis, bazinis, elementarus
+basis ['beɪsɪs]; pagrindas
+bear [bɜə]; lokys, meška
+beauty ['bju:tɪ]; grožis, grožybė, gražuolė
+bed [bed]; lova
+behaviour [bɪ'heɪvɪə]; elgesys, manieros
+behind [bɪ'haɪnd]; už, užpakalyje, atgal
+beyond [bɪ'jɔnd]; anapus, už
+berry ['berɪ]; uoga
+best [best]; geriausias, tinkamiausias
+better ['betə]; geresnis, tinkamesnis/ geriau
+bicycle ['baɪsɪkl]; dviratis
+bill1 [bɪl]; sąskaita
+bill2 [bɪl]; snapas, (kepurės) snapelis
+bit [bɪt]; gabaliukas, kąsnelis, truputis
+black [blæk]; juoda spalva, juodas
+block [blɔk]; kvartalas, korpusas, blokas
+blood [blʌd]; kraujas
+blue [blu:]; mėlyna/žydra spalva
+board1 [bɔ:d]; lenta (t.p. skelbimų)
+board2 [bɔ:d]; valdyba, taryba
+boat [bəut]; valtis, laivas
+break [breɪk]; lūžis, pertrauka
+bridge [brɪdʒ]; tiltas
+bright [braɪt]; ryškus, šviesus
+broad [brɔ:d]; platus, erdvus
+brother ['brʌðə]; brolis
+build [bɪld]; sudėjimas (kūno)/ konstrukcija, forma (pastato)
+burn [bə:n]; nudegimas, nu(si)deginimas
+business ['bɪznɪs]; reikalas, verslas, biznis
+camp [kæmp]; stovykla
+capital1 ['kæpɪtl]; kapitalas, turtas
+capital2 ['kæpɪtl]; sostinė
+care [kɜə]; rūpinimasis (for, of – kuo), priežiūra
+case [keis]; atvejis, pavyzdys, reikalas
+cause [kɔ:z]; priežastis, pagrindas, reikalas
+cent [sent]; centas
+center ['sentə]; centras, vidurys
+century ['sent∫ərɪ]; šimtmetis, amžius
+certain ['sə:tn]; tikras, įsitikinęs, neabejojantis
+chance [t∫a:ns]; šansas, proga, galimybė
+character ['kærəktə]; charakteris, būdas, personažas
+charge [tʃa:dʒ]; kaltinimas, mokestis
+check [tʃek]; tikrinimas, kontrolė
+chief [tʃi:f]; vadovas, viršininkas, vyriausiasis
+choice [t∫ɔis]; pa(si)rinkimas, alternatyva
+church [tʃə:tʃ]; bažnyčia
+circle ['sə:kl]; ratas, apskritimas, skritulys
+citizen ['sɪtɪzn]; pilietis, miesto gyventojas
+class [kla:s]; klasė (įv. reikšm.)
+clean [kli:n]; švarus, grynas, be priemaišų
+clear [klɪə]; aiškus, ryškus, skaidrus
+clothes [kləuðz]; drabužiai, apdarai
+to clothe [kləuð]; ap(si)rengti, (ap)dengti, apgaubti
+coat [kəut]; paltas
+cold [kəuld]; šaltas, šaltis, peršalimas
+college ['kɔlɪdʒ]; koledžas, kolegija
+comfort ['kʌmfət]; nu(si)raminimas, paguoda, patogumas
+command [kə'ma:nd]; komanda, įsakymas
+committee [kə'mɪtɪ]; komitetas, komisija
+common ['kɔmən]; dažnai pasitaikantis, įprastas, paplitęs
+company ['kʌmnpənɪ]; bendrovė, įmonė, kompanija
+condition [kən'di∫n]; būklė, padėtis, sąlyga
+conscious ['kɔn∫əs]; sąmonė, suvokiantis, sąmoningas
+continue [kən'tɪnju:]; tęsti(s), toliau eiti/daryti
+control [kən'trəul]; valdymas, kontrolė/ susitvardymas
+cool [ku:l]; vėsus, šaltas, vėsa
+cost [kɔst]; kaina, savikaina, išlaidos
+council ['kaunsl]; taryba
+count [kaunt]; skaičiavimas, skaičiavimo rezultatas
+couple ['kʌpl]; pora, porelė
+course [kɔ:s]; eiga, kryptis, kursas
+court [kɔ:t]; aikštelė, kortas (sporto)/ teismas
+cover ['kʌvə]; dangtis, apdangalas/ priedanga
+cross [krɔs]; kryžius, kryžiaus ženklas
+crowd [kraud]; minia, žiūrovai
+cupboard ['kʌbəd]; spinta, spintelė
+current ['kʌrənt]; einamasis, dabartinis, srovė
+daily ['deɪlɪ]; (kas)dieninis, kasdien
+dance [da:ns]; šokis
+danger ['deɪndʒə]; pavojus, grėsmė
+dark [da:k]; tamsus, niūrus, tamsa
+date [deɪt]; data, diena, pasimatymas
+dead [ded]; miręs, negyvas
+deal [di:l]; sandoris, susitarimas
+death [deθ]; mirtis
+decision [dɪ'siʒn]; sprendimas, nutarimas
+deep [di:p]; gilus, žemas (apie garsą)
+defense [dɪ'fens]; gynyba, (apsi)gynimas
+degree [dɪ'gri:]; laipsnis, mastas, mokslinis laipsnis
+department [dɪ'pa:tmənt]; skyrius, departamentas
+dependent [dɪ'pendənt]; priklausantis, priklausomas, pavaldus
+desire [dɪ'zaɪə]; noras, norėjimas, troškimas
+detail ['di:teɪl]; detalė, smulkmena
+difference ['dɪfrəns]; skirtumas, skirtingumas
+difficult ['dɪfɪkəlt]; sunkus, keblus, varginantis
+difficulty ['dɪfɪkəltɪ]; sunkumas, kliūtis
+direct ['dɪrekt]; tiesioginis, atviras, tiesus
+direction [dɪ'rek∫n]; kryptis, linkmė, vadovavimas
+director [dɪ'rektə]; vadovas, direktorius
+discussion [dɪ'skʌ∫n]; (ap)svarstymas, aptarimas, diskusija
+distance ['dɪstəns]; atstumas, nuotolis
+district ['dɪstrɪkt]; rajonas, sritis, apygarda
+division [dɪ'vɪʒn]; dalijimas(is) (into), pa(si)dalijimas (between)
+doctor ['dɔktə]; daktaras, gydytojas
+dog [dɔg]; šuo
+dollar ['dɔlə]; doleris
+door [dɔ:]; durys
+doubt [daut]; abejonė, abejojimas, dvejonė
+dream [dri:m]; sapnas, svajonė
+dress [dres]; suknelė, uniforma
+drink [drɪŋk]; gėrimas
+drive [draɪv]; važiavimas, vairavimas, paskata
+dry [draɪ]; sausas, išdžiūvęs
+drop [drɔp]; lašas, lašelis
+due [dju:]; tai, kas priklauso/užtarnauta, planuojamas
+during ['djuərɪŋ]; per, metu (džn. verčiamas įn./viet. linksniais)
+early ['ə:lɪ]; ankstus, ankstyvas, išankstinis
+easy ['i:zɪ]; lengvas, nesunkus
+east [i:st]; rytai, rytų kryptis, rytinis
+education [,edʒu'keɪʃn]; mokslas, ugdymas, išsilavinimas
+effect [ɪ'fekt]; efektas, rezultatas, poveikis
+effective [ɪ'fektɪv]; veiksmingas, efektyvus
+effort ['efət]; pastanga, stengimasis, bandymas
+either ['aiðə]; bet kuris (iš dviejų), tas ar kitas
+election [ɪ'lekʃn]; rinkimai
+electric [ɪ'lektrɪk]; elektrinis, elektros
+else [els]; dar, be to, priešingu atveju (or else)
+employee [,emplɔɪ'i:]; tarnautojas, darbuotojas
+end [end]; galas, pabaiga
+enemy ['enəmɪ]; priešas, priešininkas
+engineer [,endʒɪ'nɪə]; inžinierius, technikas
+english ['ɪŋglɪ∫]; angliškas, anglų
+entire [ɪn'taɪə]; visas, ištisas, visiškas
+equal ['i:kwəl]; (to)lygus, vienodas
+escape [ɪ'skeɪp]; pabėgimas, išsigelbėjimas
+especially [ɪ'spe∫əlɪ]; ypač, itin, specialiai(for - kam)
+essential [ɪ'sen∫l]; svarbus, būtinas, esminis
+euro ['juərəu]; euras
+evening ['i:vnɪŋ]; vakaras, vakarinis
+event [ɪ'vent]; įvykis, atsitikimas, renginys
+ever ['evə]; kada nors, visada (as ever), niekada (neig. sakinyje)
+everything ['evrɪθɪŋ]; viskas, visa
+except [ɪk'sept]; išskyrus
+exercise ['eksəsaɪz]; pratimas, lavinimas(is), treniruotė
+existence [ɪg'zɪztəns]; egzistavimas, gyvavimas
+experience [ɪk'spɪərɪəns]; patirtis, stažas/ nutikimas
+experiment [ik'sperɪmənt]; bandymas, eksperimentas
+extreme [ɪk'stri:m]; nepaprastas, ekstremalus, kraštutinis
+fact [fækt]; faktas, duomenys
+fail [feɪl]; nesėkmė, susikirtimas (per egzaminą ir pan.)
+fair [fɜə]; teisingas, nešališkas, pakenčiamas
+faith [feɪθ]; (pasi)tikėjimas, ištikimybė
+far [fa:]; toli, tolimas
+farm [fa:m]; ūkis, ferma
+fast [fa:st]; greitas, greitai
+favour ['feɪvə]; paslauga, malonė
