@@ -22,6 +22,40 @@ def main(file_name):
     # Pašaliname paskutinį elementą ir išsaugome jį tolesniam patikrinimui
     kontrol_sk = asm_kod_list.pop()
 
+    # Analizuojame asm. kodą
+    # Nustatome, kokiame amžiuje asmuo gimė ir kokia jo lytis
+    sk0 = int(asm_kod[0])
+    if sk0 < 3:
+        print("Asmuo gimė XIX amžiuje.", end=" ")
+        # Išsisaugome amžių kaip skaičių vėlesniam naudojimui
+        amz = 19
+    elif sk0 < 5:
+        print("Asmuo gimė XX amžiuje.", end=" ")
+        amz = 20
+    else:
+        print("Asmuo gimė XXI amžiuje.", end=" ")
+        amz = 21
+
+    if sk0 % 2 == 0:
+        print("Asmuo yra moteris.")
+    else:
+        print("Asmuo yra vyras.")
+
+    # Gražesniam datos išvedimui pasidarome mėnesių žodinį sąrašą.
+    men = ["sausio", "vasario", "kovo",
+           "balandžio", "gegužės", "birželio",
+           "liepos", "rugpjūčio", "rugsėjo",
+           "spalio", "lapkričio", "gruodžio"]
+
+    # Formuojame asmens gimimo datą
+    print("Asmens gimimo data:", end=" ")
+    gim_data = str(amz-1) + asm_kod[1:3] + " m. " +\
+        men[int(asm_kod[3:5])-1] + " men. " + asm_kod[5:7] + " d."
+    print(gim_data)
+
+    print("Tą dieną gimusių asmenų registre eilės numeris yra:", end=" ")
+    print(int(asm_kod[7:10]))
+
     # Funkcijos, kurios bus naudojamos map() funkcijose (skaičių sandauga)
     def sand(sk1, sk2):
         sk1 = int(sk1)
@@ -48,7 +82,7 @@ def main(file_name):
         ksk = 0
 
     # Išvedimui panaudojame dar vieną if sąlygos mutaciją :)
-    print("Kontrolinis skaičius praėjo patikrą: ",
+    print("Kontrolinis skaičius praėjo patikrą? :",
           "Ne" if ksk != int(kontrol_sk) else "Taip")
 
 
