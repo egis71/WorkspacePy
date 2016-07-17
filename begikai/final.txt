@@ -1,0 +1,11 @@
+Bëgikø finalinio bëgimo sàraðas
+----------------------------------------
+Vardas ir			Parodytas	Bëgimo
+pavardë				laikas		takelis
+----------------------------------------
+Algis Skrajûnas       0 : 56        5
+Algis Treèias         0 : 59        4
+Petras Didysis        1 : 25        3
+Petras Pirmas         2 : 25        2
+Kasparas Eiklusis     2 : 45        1
+----------------------------------------
