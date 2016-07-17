@@ -22,6 +22,21 @@ def main(file_name):
     # Pašaliname paskutinį elementą ir išsaugome jį tolesniam patikrinimui
     kontrol_sk = asm_kod_list.pop()
 
+    # Analizuojame asm. kodą
+    # Nustatome, kokiame amžiuje asmuo gimė ir kokia jo lytis
+    sk0 = int(asm_kod[0])
+    if sk0 < 3:
+        print("Asmuo gimė XIX amžiuje.", end=" ")
+    elif sk0 < 5:
+        print("Asmuo gimė XX amžiuje.", end=" ")
+    else:
+        print("Asmuo gimė XXI amžiuje.", end=" ")
+
+    if sk0 % 2 == 0:
+        print("Asmuo yra moteris.")
+    else:
+        print("Asmuo yra vyras.")
+
     # Funkcijos, kurios bus naudojamos map() funkcijose (skaičių sandauga)
     def sand(sk1, sk2):
         sk1 = int(sk1)
@@ -48,7 +63,7 @@ def main(file_name):
         ksk = 0
 
     # Išvedimui panaudojame dar vieną if sąlygos mutaciją :)
-    print("Kontrolinis skaičius praėjo patikrą: ",
+    print("Kontrolinis skaičius praėjo patikrą? : ",
           "Ne" if ksk != int(kontrol_sk) else "Taip")
 
 
