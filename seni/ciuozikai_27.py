@@ -3,7 +3,7 @@ print("Įveskite čiuožėjų kiekį ir teisėjų kiekį, atskirtus tarpu.")
 print("Kiekiai turi būti sveiki skaičiai ")
 print("Čiuožėjų kiekis nuo 1 iki 100, teisėjų - nuo 3 iki 100.")
 while True:
-    ciuoz_teisej = input("Jūsų įvedimas: ")
+    ciuoz_teisej = raw_input("Jūsų įvedimas: ")
     C, T = (ciuoz_teisej.strip().split())
     try:
         C, T = int(C), int(T)
@@ -26,14 +26,16 @@ dalyviai = {}
 vidurkiai = {}
 for i in range(C):
     while True:
-        ciuozejas = input()
+        ciuozejas = raw_input()
+        print ciuozejas
         ciuozejas1 = ciuozejas.strip().split()
+        print ciuozejas1
 
         if len(ciuozejas1) != T + 1:
             print("Jūsų įvedimas netinkamas. Bandykite dar ...")
             continue
 
-        dalyvio_vertinimas = dalyviai[ciuozejas1[0]]
+        # dalyvio_vertinimas = dalyviai[ciuozejas1[0]]
 
         dalyvio_vertinimas = []
 
