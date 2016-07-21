@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 kartos = {
     'lost': [1944, 1963],
     'X': [1964, 1983],
@@ -6,7 +7,7 @@ kartos = {
 }
 ats = False
 while ats == False:
-    born = input("Įveskite metus tarp 1944 ir 2023: ")
+    born = raw_input("Įveskite metus tarp 1944 ir 2023: ")
     if not born.isdigit():
         print("Reikia įvesti sveiką skaičių!")
         continue
@@ -21,5 +22,5 @@ while ats == False:
 
 for k, v in kartos.items():
     if v[0] <= born <= v[1]:
-        print(str(born) + ", rezultatas:", k, "karta.")
+        # print(str(born) + ", rezultatas:", k, "karta.")
         print("{}, rezultatas: {} karta.".format(born, k))
